@@ -14,7 +14,7 @@ cd ~/Python-3.10.7
 
 # 構成・ビルド・インストール（最小構成）
 ./configure \
-    --prefix="$HOME/.local/python-3.10.7" \
+    --prefix="$HOME/local/python-3.10.7" \
     --with-ensurepip=install \
     --enable-optimizations
 
