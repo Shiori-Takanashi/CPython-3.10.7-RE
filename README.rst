@@ -1,4 +1,9 @@
+I am rebuilding the CPython for Python 3.10.7.
+
+=============================
+
 This is Python version 3.10.7
+
 =============================
 
 .. image:: https://travis-ci.com/python/cpython.svg?branch=master
